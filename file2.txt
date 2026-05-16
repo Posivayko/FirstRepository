@@ -1,2 +1,3 @@
 Good bye!
 Other line
+Line from user 2
