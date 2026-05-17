@@ -2,4 +2,8 @@ Good bye!
 Other line
 Line from user 2
 Another line from user 2
+<<<<<<< HEAD
 Critical bug fixed
+=======
+Line from user 2 - lesson about rebase
+>>>>>>> ceb27bb (add change from user 2)
